@@ -1,6 +1,6 @@
 # Git / GitHub Notes
 
-Many thanks to [Brian Hung](https://github.com/brianhung) for his help in navigating both Git and Markdown. This is being edited on [Typora](https://typora.com), a minimalist Markdown editor.
+Many thanks to [Brian Hung](https://github.com/brianhung) for his help in navigating both Git and Markdown. This is being edited on [Typora](https://typora.io), a minimalist Markdown editor.
 
 #### What is Git?
 
