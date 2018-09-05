@@ -1,4 +1,4 @@
-#Git & [Github](https://github.com) 
+# Git & [Github](https://github.com) 
 
 Many thanks to [Brian Hung](https://github.com/brianhung) for his help in navigating both Git and Markdown. This is being edited on [Typora](https://typora.io), a minimalist Markdown editor.
 
@@ -47,7 +47,9 @@ There are two options available for using Git / GitHub on your computer:
 
 ## The Git workflow & command-line commands for Git 
 
-![image](/Users/neelk./Desktop/Notes/git_github/git_work_flow.png)
+![image](https://github.com/nkishnani/Notes/blob/master/git_github/git_work_flow.png)
+
+
 
 - `git init` : allows the working directory to be tracked via Git.
 - `git add` : serves as the staging command. Adding a file indicates that these changes are about to be committed to the branch you are in.
