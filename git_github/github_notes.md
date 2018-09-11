@@ -50,8 +50,6 @@ Many thanks to [Brian Hung](https://github.com/brianhung) for his help in naviga
 
 
 
-
-
 ## Setting up Git & GitHub on your computer
 
 There are two options available for using Git / GitHub on your computer:
@@ -66,9 +64,16 @@ There are two options available for using Git / GitHub on your computer:
 ## The Command Line
 
 - `git init` : allows the working directory to be tracked via Git.
-- `git add` : serves as the staging command. Adding a file indicates that these changes are about to be committed to the branch you are in.
-- 
 
+- `git add` : serves as the staging command. Adding a file indicates that these changes are about to be committed to the branch you are in.
+
+- `git commit -m "**COMMIT MESSAGE**"`: commits the changes to the files currently staged and links it with a message detailing the changes. Commits are tracked like checkpoints on the current branch you are working on.
+
+- `git status`: gives a breakdown of the files currently staged, and the files that have been altered but not committed yet. 
+
+- `git log`: gives a breakdown of times and meesages of each commit on the branch you are working on.
+
+- `git diff`: gives a breakdown of the differences between the file you are currently working and the state of that file based on the last commit.
 
 
 ## More resources
