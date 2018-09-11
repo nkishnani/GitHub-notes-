@@ -20,15 +20,33 @@ Many thanks to [Brian Hung](https://github.com/brianhung) for his help in naviga
 *This is a question that I had for many months* 😛
 
 - GitHub is a hosting platform for Git repositories (folders of files that are tracked via Git).
-
 - Using GitHub you can make new projects, add contributors, and efficiently develop your codebase.
+- GitHub has also branched off into other sectors - for example, GitHub pages allows you to maintain a website (HTML code) by committing and pushing changes directly from a GitHub repository (i.e. *your_ website_name*.github.io)
 
 
 
+### The Basics
+
+- To review, Git is a version control protocol, and GitHub is a server to host projects that are being tracked via Git. 
+
+- Version control via Git is a 3-step process: staging,  committing, and pushing. 
+
+  ![image](https://github.com/nkishnani/Notes/blob/master/git_github/git_work_flow.png)
+
+
+
+  - When **staging**, you are indicating to Git that the file(s) being staged has changes that are going to need to be tracked. 
+  - When **committing**, you are documenting the changes made and saving the current version of the file.
+  - When **pushing**, you are uploading the commits you have made to a server (either locally or more commonly, to GitHub).
 
 ## Branches : The backbone of the GitHub workflow
 
+![image](https://wac-cdn.atlassian.com/dam/jcr:83323200-3c57-4c29-9b7e-e67e98745427/Branch-1.png?cdnVersion=jw)
 
+
+
+- Branching are the essence of collaboration in the Git and GitHub environment. Imagine you're working with a partner on a file. Your partner can make their own branch (copy of the current state of the file, like the green nodes) and begin working on their portion of the project. Once they have completed their work, you both can look it over and decide to `merge`	and update the state of the main file.
+- Branches can be created for each collaborator, and each branch and its contents (commits) can be seen by all other collaborators.
 
 
 
@@ -45,11 +63,7 @@ There are two options available for using Git / GitHub on your computer:
    - `git config --global user.email [**YOUR EMAIL**]` 
    - `git config --global user.name [**YOUR DISPLAY NAME**]`
 
-## The Git workflow & command-line commands for Git 
-
-![image](https://github.com/nkishnani/Notes/blob/master/git_github/git_work_flow.png)
-
-
+## The Command Line
 
 - `git init` : allows the working directory to be tracked via Git.
 - `git add` : serves as the staging command. Adding a file indicates that these changes are about to be committed to the branch you are in.
