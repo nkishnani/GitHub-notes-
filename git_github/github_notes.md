@@ -50,6 +50,16 @@ Many thanks to [Brian Hung](https://github.com/brianhung) for his help in naviga
 
 
 
+### Forks and Pull Requests
+
+![image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+
+- If you want to make a copy of someone else's repository but don't want to changes that you make to be reflected on the original you can **fork** the project. 
+- Once you are done tinkering with the project and you want to propose the changes you amde to the author, you can file a **pull request**, which informs the author of the changes and gives them the option to include your commits in the original project. 
+- Forks and pull requests illustrate yet another feature within GitHub that streamlines collaboration in software development. 
+
+
+
 ## Setting up Git & GitHub on your computer
 
 There are two options available for using Git / GitHub on your computer:
