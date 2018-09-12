@@ -75,15 +75,39 @@ There are two options available for using Git / GitHub on your computer:
 
 - `git init` : allows the working directory to be tracked via Git.
 
+
+
 - `git add` : serves as the staging command. Adding a file indicates that these changes are about to be committed to the branch you are in.
+
+
 
 - `git commit -m "**COMMIT MESSAGE**"`: commits the changes to the files currently staged and links it with a message detailing the changes. Commits are tracked like checkpoints on the current branch you are working on.
 
+
+
 - `git status`: gives a breakdown of the files currently staged, and the files that have been altered but not committed yet. 
+
+
 
 - `git log`: gives a breakdown of times and meesages of each commit on the branch you are working on.
 
+
+
 - `git diff`: gives a breakdown of the differences between the file you are currently working and the state of that file based on the last commit.
+
+- `git branch`: lists all local branches within the current repository.
+
+- `git checkout **BRANCH NAME**`: switches to specified branch.
+
+- `git merge **MERGING BRANCH NAME**`: merges current branch with specified branch.
+
+- `git fetch`: gets the latest changes from origin repo without merging.
+
+- `git pull`: get the latest changes from origin repo and merges them.
+
+- `git rest **FILE NAME**`: unstages file but retains changes.
+
+- `git reset --hard`: reverts everything to state at last commit.
 
 
 ## More resources
