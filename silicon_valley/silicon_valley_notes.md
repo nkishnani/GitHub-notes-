@@ -12,7 +12,7 @@
 
 ## Books
 
-Chang, Emily [*Brotopia: Breaking Up the Boys' Club of the Silicon Valley*](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/073521353)
+Chang, Emily [*Brotopia: Breaking Up the Boys' Club of the Silicon Valley*](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1537075009&sr=8-1&keywords=brotopia)
 
 
 
