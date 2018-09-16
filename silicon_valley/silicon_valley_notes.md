@@ -6,6 +6,7 @@
 
 - Kolhatkar, Sheelah. [The New Yorker](newyorker.com). [*The Tech Industry's Gender Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem).
 - Hempel, Jessi. [Wired](wired.com). [*Why Are There Few Women in Tech? Watch a Recruiting Session*](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/).
+- Koren, Marina. [the Atlantic](theatlantic.com). [*What if a Female CEO Acted Like Elon Musk.*](https://www.theatlantic.com/science/archive/2018/08/elon-musk-new-york-times-interview-ceo/567835/).
 
 ## Videos
 
