@@ -4,11 +4,12 @@
 
  ## Articles 
 
-
+- Kolhatkar, Sheelah. [The New Yorker](newyorker.com). [*The Tech Industry's Gender Discrimination Problem*](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem).
+- Hempel, Jessi. [Wired](wired.com). [*Why Are There Few Women in Tech? Watch a Recruiting Session*](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/).
 
 ## Videos
 
-
+- Wired: [Women on the Rampant Sexism of Silicon Valley](http://video.wired.com/watch/women-engineers-on-the-rampant-sexism-of-silicon-valley).
 
 ## Books
 
@@ -19,5 +20,7 @@
 - Noble, Safiya Umoja [Algorithms of Oppression: How Search Engines Reinforce Racism](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)
 
 
+## Other 
 
+- Damore, James. [*Google's Ideological Echo Chamber*](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf).
 
