@@ -12,7 +12,12 @@
 
 ## Books
 
-Chang, Emily [*Brotopia: Breaking Up the Boys' Club of the Silicon Valley*](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1537075009&sr=8-1)
+- Chang, Emily [*Brotopia: Breaking Up the Boys' Club of the Silicon Valley*](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534/ref=sr_1_1?ie=UTF8&qid=1537075009&sr=8-1)
+
+- Pao, Ellen [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X)
+
+- Noble, Safiya Umoja [Algorithms of Oppression: How Search Engines Reinforce Racism](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)
+
 
 
 
