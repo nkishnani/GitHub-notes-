@@ -44,3 +44,8 @@ Here's the command on Mac and other Unix machines:
 
 `sudo killall -HUP mDNSResponder;sudo killall mDNSResponderHelper;sudo dscacheutil -flushcache`
 
+
+#### More Resources
+- [Cisco Blog on the Difference Between Recursive and Authotative Name Servers](https://umbrella.cisco.com/blog/2014/07/16/difference-authoritative-recursive-dns-nameservers/)
+
+
