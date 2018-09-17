@@ -52,7 +52,9 @@ Many thanks to [Brian Hung](https://github.com/brianhung) for his help in naviga
 
 ### Forks and Pull Requests
 
-![image](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+<p align="center">
+  <img src="https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png">
+</p>
 
 - If you want to make a copy of someone else's repository but don't want to changes that you make to be reflected on the original you can **fork** the project. 
 - Once you are done tinkering with the project and you want to propose the changes you amde to the author, you can file a **pull request**, which informs the author of the changes and gives them the option to include your commits in the original project. 
