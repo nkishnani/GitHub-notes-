@@ -9,7 +9,9 @@
 - When a URL is typed into your browser, your machine sends a out a DNS request to locate the corresponding IP address.
 
 
-![image](https://sw.nohold.net/CiscoSB/Images/3775_1.png)
+<p align="center">
+  <img src="https://sw.nohold.net/CiscoSB/Images/3775_1.png">
+</p>
 
 
 
@@ -17,3 +19,4 @@
 
 - When you enter a URL into your web browser, the DNS request will first be sent to a recursive name server. The recursive name server is typically operated by your ISP (internet service provider).
 - A recursive name server would be like a phone operator looking into a phone book on behalf of the requesting party. Further, in the recursive case, last names have a seperate phone book and first names have another phone book, making the process categoristically recursive. 
+
