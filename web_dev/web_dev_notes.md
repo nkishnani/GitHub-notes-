@@ -39,6 +39,3 @@ Creates a header on the specified page that reads "**About Us**"
 </h1>
 ```
 
-
-
-- 
