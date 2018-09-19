@@ -26,3 +26,5 @@
 
 - Damore, James. [*Google's Ideological Echo Chamber*](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf)
 
+- Cannon, William and Perry, Dallis [A vocational interest scale for computer programmers](https://dl.acm.org/purchase.cfm?id=1142628)
+
