@@ -5,7 +5,8 @@ This repository contains my personal notes on assorted subjects, either that I'm
 - Git & GitHub
 - Social Issues in the Silicon Valley**
 - Website Development (HTML & CSS)**
-- Technical Interview Review^^
+- Technical Interview Review^
+- Debugging **
 
 ** Marks a section of notes that is currently in progress.
 ^^ Marks a section of notes that is coming soon.
