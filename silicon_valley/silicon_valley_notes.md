@@ -19,7 +19,6 @@
 - Pao, Ellen [Reset: My Fight for Inclusion and Lasting Change](https://www.amazon.com/Reset-Fight-Inclusion-Lasting-Change/dp/039959101X)
 - Noble, Safiya Umoja [Algorithms of Oppression: How Search Engines Reinforce Racism](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)
 - Ensmenger, Nathan [The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise](https://www.amazon.com/Computer-Boys-Take-Over-Programmers/dp/0262517965)
-- 
 
 
 ## Other 
@@ -28,3 +27,16 @@
 
 - Cannon, William and Perry, Dallis [A vocational interest scale for computer programmers](https://dl.acm.org/purchase.cfm?id=1142628)
 
+
+
+
+
+# Further Miscellaneous Notes
+
+![image](https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png)
+
+This image of Lena Soderberg appeared in the November 1972 edition of the *Playboy* magazine. In 1973, at a computer lab in the University of Southern California led by William Pratt, a group of researchers working to turn physical photographs into digital bits used this photo as a test image, due to its high volume of contrast and texture.
+
+
+
+In reference to the grad students on his team, Pratt explains "I think they were enjoying the magazine, and it just happened to be there." The picture of Lena went on to become the standard test for image processing algorithms.
