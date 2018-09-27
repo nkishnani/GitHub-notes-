@@ -48,10 +48,24 @@ In reference to the grad students on his team, Pratt explains "I think they were
 - 1944 - Grace Hopper begins programming the Harvard Mark I computer, becoming a pioneer in the concept of compilation and the COBOL programming language.
 - There was a decrease of women in the field of computing once the war ended, but the number was steadily rising thereafter.
 
-- #1984 - the year it all changed
+- ***1984 - the year it all changed***
 
-  - At this point women were receiving nearly 40% of computer science degrees. Now, women are receiving 22% of computer science degrees.
+- At this point women were receiving nearly 40% of computer science degrees. Now, women are receiving 22% of computer science degrees.
+
+*In the attempt to not discuss religion / ethical stances, morality has been thrown out the window - running joke that Christians are ostracized in the Silicon Valley.*
+
+- ENIAC (Electronic Numerical Integrator and Computer, introduced to the public in 1946) worked to calculate the trajectory of weapons used by soldiers in the field. Six women were selected to program this computer.
+- 1962 - three black women working as NASA mathematicians helped calculate the flight paths that put John Glenn into orbit.
+- Margaret Hamilton headed up the team that wrote the code that plotted Apollo 11's path to the moon.
+- At the time, computers were commmonly linked with women, as many women were secretaries and spent much of their typing on typewriters. 
+- Computers began to be advertised as being able to overthrow women in the computer workplace
+
+![image](http://salvage.zone/wp-content/uploads/2016/08/hester.jpg)
+
+- The computing world began to explode in the 1960s, and companies began to identify the exact skills and personality types that made a great programmer. Programming began to be viewed as a black art of sorts, and those who could succeed in it were born not trained.
+- By 1962, 80% of businesses were using aptitude tests to hire programmers.
+- In the mid-60s, System Development Corporation enlisted William Cannon and Dallis Perry to scout new recruits who would enjoy programming, they profiled 1,378 programmers, only 186 of whom were women. -> **Vocational Interest Scale.**
+  - They concluded that the best programmers don't like people.
 
 
 
-In the attempt to not discuss religion / ethical stances, morality has been thrown out the window - running joke that Christians are ostracized in the Silicon Valley.
