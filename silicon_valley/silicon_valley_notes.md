@@ -29,8 +29,6 @@
 
 
 
-
-
 # Further Miscellaneous Notes
 
 ![image](https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png)
@@ -40,3 +38,20 @@ This image of Lena Soderberg appeared in the November 1972 edition of the *Playb
 
 
 In reference to the grad students on his team, Pratt explains "I think they were enjoying the magazine, and it just happened to be there." The picture of Lena went on to become the standard test for image processing algorithms.
+
+
+
+## History of Women in Computer Science
+
+- 1840s - Ada Lovelace begins programming for Charles Babbage's Analytical Engine, which had yet to be built.
+- Women were among the pioneers who worked on computers for the military during the second World War.
+- 1944 - Grace Hopper begins programming the Harvard Mark I computer, becoming a pioneer in the concept of compilation and the COBOL programming language.
+- There was a decrease of women in the field of computing once the war ended, but the number was steadily rising thereafter.
+
+- #1984 - the year it all changed
+
+  - At this point women were receiving nearly 40% of computer science degrees. Now, women are receiving 22% of computer science degrees.
+
+
+
+In the attempt to not discuss religion / ethical stances, morality has been thrown out the window - running joke that Christians are ostracized in the Silicon Valley.
