@@ -83,7 +83,7 @@ There are two options available for using Git / GitHub on your computer:
 
 
 
-- `git commit -m "**COMMIT MESSAGE**"`: commits the changes to the files currently staged and links it with a message detailing the changes. Commits are tracked like checkpoints on the current branch you are working on.
+- `git commit -m "<COMMIT MESSAGE>"`: commits the changes to the files currently staged and links it with a message detailing the changes. Commits are tracked like checkpoints on the current branch you are working on.
 
 
 
@@ -97,20 +97,28 @@ There are two options available for using Git / GitHub on your computer:
 
 - `git diff`: gives a breakdown of the differences between the file you are currently working and the state of that file based on the last commit.
 
-- `git branch`: lists all local branches within the current repository.
 
-- `git checkout **BRANCH NAME**`: switches to specified branch.
+- `git branch <NEW BRANCH NAME> : creates new branch 
+    - `git branch -a`: lists all local branches within the current repository.
 
-- `git merge **MERGING BRANCH NAME**`: merges current branch with specified branch.
+- `git checkout <BRANCH NAME>`: switches to specified branch.
+
+    - `git checkout -b <NEW BRANCH NAME> : creates new branch and switches to it 
+    - `git checkout -b <NEW BRANCH NAME> <EXISTING BRANCH NAME> : creates new branch with specific HEAD and checks it out
+
+- `git merge <MERGING BRANCH NAME>`: merges current branch with specified branch.
 
 - `git fetch`: gets the latest changes from origin repo without merging.
 
 - `git pull`: get the latest changes from origin repo and merges them.
 
-- `git rest **FILE NAME**`: unstages file but retains changes.
+- `git rest <FILE NAME>`: unstages file but retains changes.
 
 - `git reset --hard`: reverts everything to state at last commit.
 
+- `git status` : allows you to check which branch you are currently as well as how current the current branch is in relation to the HEAD (where you branched off of)
+
+- `git log` : gives record of commits on current branch
 
 ## More resources
 
