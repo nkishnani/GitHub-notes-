@@ -98,13 +98,13 @@ There are two options available for using Git / GitHub on your computer:
 - `git diff`: gives a breakdown of the differences between the file you are currently working and the state of that file based on the last commit.
 
 
-- `git branch <NEW BRANCH NAME> : creates new branch 
+- `git branch` <NEW BRANCH NAME> : creates new branch 
     - `git branch -a`: lists all local branches within the current repository.
 
 - `git checkout <BRANCH NAME>`: switches to specified branch.
 
-    - `git checkout -b <NEW BRANCH NAME> : creates new branch and switches to it 
-    - `git checkout -b <NEW BRANCH NAME> <EXISTING BRANCH NAME> : creates new branch with specific HEAD and checks it out
+    - `git checkout -b` <NEW BRANCH NAME> : creates new branch and switches to it 
+    - `git checkout -b` <NEW BRANCH NAME> <EXISTING BRANCH NAME> : creates new branch with specific HEAD and checks it out
 
 - `git merge <MERGING BRANCH NAME>`: merges current branch with specified branch.
 
